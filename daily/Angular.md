@@ -19,9 +19,10 @@ ng serve --open  [port]
 显示列表
 >英雄指南应用在一个主从视图中显示了英雄列表。  
 >用户可以选择一个英雄，并查看该英雄的详情。  
->使用 *ngFor 显示了一个列表。  
->使用 *ngIf 来根据条件包含或排除了一段 HTML.  
->可以用 class 绑定来切换 CSS 的样式类。  
+>使用 \*ngFor 显示了一个列表。  
+>使用 \*ngIf 来根据条件包含或排除了一段 HTML.  
+>可以用 class 绑定来切换 CSS 的样式类。   
+
 创建特性组件
 >你创建了一个独立的、可复用的 HeroDetailComponent 组件。  
 >用属性绑定语法来让父组件 HeroesComponent 可以控制子组件 HeroDetailComponent。  
